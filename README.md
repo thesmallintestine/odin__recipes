@@ -1,2 +1,2 @@
-# odin__recipes
+# odin_recipes
 Just HTML for now
